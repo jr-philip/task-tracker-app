@@ -4,18 +4,18 @@
       "id": 2,
       "text": "metting at school",
       "day": "feb 6th at 2pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
       "text": "food shopping",
       "day": "feb 5th at 4pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "take test",
       "day": "tue",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
@@ -35,6 +35,18 @@
       "day": "",
       "reminder": false,
       "id": 7
+    },
+    {
+      "text": "nbxnb",
+      "day": "",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "nfgjn",
+      "day": "",
+      "reminder": false,
+      "id": 9
     }
   ]
 }
