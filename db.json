@@ -11,6 +11,30 @@
       "text": "food shopping",
       "day": "feb 5th at 4pm",
       "reminder": false
+    },
+    {
+      "text": "take test",
+      "day": "tue",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "game",
+      "day": "wed",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "nfnfg",
+      "day": "",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "nfn",
+      "day": "",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
